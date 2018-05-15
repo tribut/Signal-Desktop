@@ -514,6 +514,7 @@ span.status {
 
     .body {
       white-space: pre-wrap;
+      overflow-x: auto;
 
       a {
         word-break: break-all;
