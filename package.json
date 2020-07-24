@@ -69,7 +69,7 @@
     "google-libphonenumber": "^3.0.7",
     "got": "^8.2.0",
     "linkify-it": "^2.0.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mkdirp": "^0.5.1",
     "moment": "^2.21.0",
     "node-fetch": "https://github.com/scottnonnenberg/node-fetch.git#3e5f51e08c647ee5f20c43b15cf2d352d61c36b4",
